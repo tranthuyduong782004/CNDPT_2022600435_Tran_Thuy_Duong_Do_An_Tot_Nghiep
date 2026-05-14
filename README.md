@@ -1,5 +1,3 @@
-</> Markdown 
-
 # CNDPT_2022600435_Tran_Thuy_Duong_Do_An_Tot_Nghiep
 Đề tài "Thiết kế và dựng phim hoạt hình 2D về phân loại rác bảo vệ môi trường".
 ## Video
